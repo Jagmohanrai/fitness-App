@@ -1,0 +1,999 @@
+{
+  "plans": [
+    {
+      "code": "weight_loss_starter",
+      "title_m": "Weight Reduction Starter",
+      "title_f": "Weight Reduction Starter",
+      "image_m": "plan_img_1_m",
+      "image_f": "plan_img_1_f",
+      "gender": "u",
+      "focus_strength": 1,
+      "focus_cardio": 2,
+      "expectations_m": [
+        "Full-Body Exercises",
+        "Increasing Intensity",
+        "Buckets crammed with Sweat"
+      ],
+      "expectations_f": [
+        "Full-Body Exercises",
+        "Increasing Intensity",
+        "Buckets crammed with Sweat"
+      ],
+      "results_m": [
+        "A reduce begin will assemble a constant habit",
+        "Burn fat because there is no weight cycling",
+        "Master the fundamentals of fitness"
+      ],
+      "results_f": [
+        "A reduce begin will assemble a constant habit",
+        "Burn fat because there is no weight cycling",
+        "Master the fundamentals of fitness"
+      ],
+      "workout_types": [
+        "ROUNDS",
+        "INTERVAL_TRAINING",
+        "LIGHT_CARDIO",
+        "INTERVAL_TRAINING",
+        "HIIT",
+        "LIGHT_CARDIO"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 3,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "final_challenge",
+          "title": "Final Challenge",
+          "description": "Reach your exhaustive means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "super_cardio_burner",
+      "title_m": "Awesome Cardio Burner",
+      "title_f": "Awesome Cardio Burner",
+      "image_m": "plan_img_2_m",
+      "image_f": "plan_img_2_f",
+      "gender": "u",
+      "focus_strength": 1,
+      "focus_cardio": 3,
+      "expectations_m": [
+        "Variable Intensity",
+        "HIIT Workouts",
+        "High Rep Counts"
+      ],
+      "expectations_f": [
+        "Variable Intensity",
+        "HIIT Workouts",
+        "High Rep Counts"
+      ],
+      "results_m": [
+        "Lose weight, tone muscles",
+        "Get an athletic look",
+        "Be vivacious and get fitter"
+      ],
+      "results_f": [
+        "Lose weight, tone muscles",
+        "Get an athletic look",
+        "Be vivacious and get fitter"
+      ],
+      "workout_types": [
+        "TABATA",
+        "PLYOMETRICS",
+        "STRENGTH_CARDIO",
+        "INTERVAL_TRAINING",
+        "HIIT",
+        "ROUNDS",
+        "HIIT",
+        "TABATA",
+        "ROUNDS",
+        "HIIT"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 10,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "hard_week",
+          "title": "Brutal Days",
+          "description": "Reach your complete means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "balanced_fat_loss",
+      "title_m": "Balanced Fat Loss",
+      "title_f": "Balanced Fat Loss",
+      "image_m": "plan_img_3_m",
+      "image_f": "plan_img_3_f",
+      "gender": "u",
+      "focus_strength": 2,
+      "focus_cardio": 2,
+      "expectations_m": [
+        "Variable Intensity",
+        "HIIT Workouts",
+        "High Rep Counts"
+      ],
+      "expectations_f": [
+        "Variable Intensity",
+        "HIIT Workouts",
+        "High Rep Counts"
+      ],
+      "results_m": [
+        "Lose weight, tone muscles",
+        "Get an athletic look",
+        "Be vivacious and get fitter"
+      ],
+      "results_f": [
+        "Lose weight, tone muscles",
+        "Get an athletic look",
+        "Be vivacious and get fitter"
+      ],
+      "workout_types": [
+        "TABATA",
+        "PLYOMETRICS",
+        "STRENGTH_CARDIO",
+        "INTERVAL_TRAINING",
+        "HIIT",
+        "ROUNDS",
+        "HIIT",
+        "TABATA",
+        "ROUNDS",
+        "HIIT"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 10,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "hard_week",
+          "title": "Brutal Days",
+          "description": "Reach your complete means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "muscle_shredder",
+      "title_m": "Muscle Shredder",
+      "title_f": "Lean & Toned",
+      "image_m": "plan_img_4_m",
+      "image_f": "plan_img_4_f",
+      "gender": "u",
+      "focus_strength": 3,
+      "focus_cardio": 1,
+      "expectations_m": [
+        "Low Rep Counts",
+        "Resistance Exercises",
+        "HIIT Workouts",
+        "Toning Exercises"
+      ],
+      "expectations_f": [
+        "Low Rep Counts",
+        "Resistance Exercises",
+        "HIIT Workouts",
+        "Blood, Sweat & Tears"
+      ],
+      "results_m": [
+        "Burn fat to build muscle groups extra visible",
+        "Build useful strength",
+        "Build discipline, glimpse better, really stronger"
+      ],
+      "results_f": [
+        "Tighten and tone because there is no bulking up",
+        "Burn fat with HIIT and muscle exercises",
+        "Look stronger. Feel stronger."
+      ],
+      "workout_types": [
+        "ROUNDS",
+        "INTERVAL_TRAINING",
+        "HIIT",
+        "ROUNDS",
+        "HIIT",
+        "TABATA",
+        "INTERVAL_TRAINING",
+        "ROUNDS",
+        "HIIT",
+        "TABATA",
+        "STRENGTH_CARDIO"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 9,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "deload_week",
+          "title": "Deload Weeks",
+          "description": "Prepare the physique for the doubled demand in the following week",
+          "weeks": 1,
+          "difficulty_coefficient": 0.7
+        },
+        {
+          "code": "hard_week",
+          "title": "Brutal Days",
+          "description": "Reach your complete means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "female_body_special",
+      "title_m": "Bikini Body Special",
+      "title_f": "Bikini Body Special",
+      "image_m": "plan_img_5_f",
+      "image_f": "plan_img_5_f",
+      "gender": "f",
+      "focus_strength": 2,
+      "focus_cardio": 2,
+      "expectations_m": [
+        "Extra Butt Exercises",
+        "Variable Intensity",
+        "Lower physique Focus"
+      ],
+      "expectations_f": [
+        "Extra Butt Exercises",
+        "Variable Intensity",
+        "Lower physique Focus"
+      ],
+      "results_m": [
+        "Bigger and rounder butt",
+        "Burn energy and fat away",
+        "Toned glutes and leg muscles"
+      ],
+      "results_f": [
+        "Bigger and rounder butt",
+        "Burn energy and fat away",
+        "Toned glutes and leg muscles"
+      ],
+      "workout_types": [
+        "FEM_HIIT",
+        "FEM_TABATA",
+        "FEM_INTERVAL_TRAINING",
+        "FEM_ROUNDS"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 10,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "hard_week",
+          "title": "Brutal Days",
+          "description": "Reach your complete means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "male_body_special",
+      "title_m": "Men's physique Special",
+      "title_f": "Men's physique Special",
+      "image_m": "plan_img_6_m",
+      "image_f": "plan_img_6_m",
+      "gender": "m",
+      "focus_strength": 2,
+      "focus_cardio": 2,
+      "expectations_m": [
+        "Upper physique Focus",
+        "Resistance Exercises",
+        "Variable Intensity"
+      ],
+      "expectations_f": [
+        "Upper physique Focus",
+        "Resistance Exercises",
+        "Variable Intensity"
+      ],
+      "results_m": [
+        "Bigger arms, chest, and to put muscles",
+        "Burn fat to build muscle groups extra visible",
+        "Build discipline, glimpse better, really stronger"
+      ],
+      "results_f": [
+        "Bigger arms, chest, and to put muscles",
+        "Burn fat to build muscle groups extra visible",
+        "Build discipline, glimpse better, really stronger"
+      ],
+      "workout_types": [
+        "MALE_INTERVAL_TRAINING",
+        "MALE_HIIT",
+        "MALE_TABATA",
+        "MALE_ROUNDS"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 10,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "hard_week",
+          "title": "Brutal Days",
+          "description": "Reach your complete means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "fit_life_starter",
+      "title_m": "Fit styles Starter",
+      "title_f": "Fit styles Starter",
+      "image_m": "plan_img_8_m",
+      "image_f": "plan_img_8_f",
+      "gender": "u",
+      "focus_strength": 1,
+      "focus_cardio": 1,
+      "expectations_m": [
+        "Full-Body Exercises",
+        "Increasing Intensity",
+        "Fun & Variety",
+        "Muscle Recovery"
+      ],
+      "expectations_f": [
+        "Full-Body Exercises",
+        "Increasing Intensity",
+        "Fun & Variety",
+        "Muscle Recovery"
+      ],
+      "results_m": [
+        "Master the fundamentals of fitness",
+        "A reduce begin will assemble a constant habit",
+        "Strength, endurance, and suppleness for wholesome living",
+        "Feel youthful and extra energized"
+      ],
+      "results_f": [
+        "Master the fundamentals of fitness",
+        "A reduce begin will assemble a constant habit",
+        "Strength, endurance, and suppleness for wholesome living",
+        "Feel youthful and extra energized"
+      ],
+      "workout_types": [
+        "ROUNDS",
+        "HIIT",
+        "LIGHT_CARDIO",
+        "INTERVAL_TRAINING",
+        "TABATA",
+        "STRENGTH_CARDIO"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 3,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "final_challenge",
+          "title": "Final Challenge",
+          "description": "Reach your exhaustive means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "full_stack_fitness",
+      "title_m": "Full Stack health",
+      "title_f": "Full Stack health",
+      "image_m": "plan_img_9_m",
+      "image_f": "plan_img_9_f",
+      "gender": "u",
+      "focus_strength": 2,
+      "focus_cardio": 2,
+      "expectations_m": [
+        "High Rep Counts",
+        "Variable Intensity",
+        "HIIT Workouts",
+        "Fun & Variety"
+      ],
+      "expectations_f": [
+        "High Rep Counts",
+        "Variable Intensity",
+        "HIIT Workouts",
+        "Fun & Variety"
+      ],
+      "results_m": [
+        "Keep lean and deal with muscles",
+        "Improve total bodily fitness",
+        "Get a wholesome coronary and a sturdy body"
+      ],
+      "results_f": [
+        "Keep lean and deal with muscles",
+        "Improve total bodily fitness",
+        "Get a wholesome coronary and a sturdy body"
+      ],
+      "workout_types": [
+        "INTERVAL_TRAINING",
+        "HIIT",
+        "ROUNDS",
+        "TABATA",
+        "INTERVAL_TRAINING",
+        "ROUNDS",
+        "HIIT",
+        "TABATA",
+        "PLYOMETRICS",
+        "STRENGTH_CARDIO",
+        "HIIT"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 9,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "deload_week",
+          "title": "Deload Weeks",
+          "description": "Prepare the physique for the doubled demand in the following week",
+          "weeks": 1,
+          "difficulty_coefficient": 0.7
+        },
+        {
+          "code": "hard_week",
+          "title": "Brutal Days",
+          "description": "Reach your complete means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "endurance_builder",
+      "title_m": "Endurance Builder",
+      "title_f": "Endurance Builder",
+      "image_m": "plan_img_10_m",
+      "image_f": "plan_img_10_f",
+      "gender": "u",
+      "focus_strength": 1,
+      "focus_cardio": 3,
+      "expectations_m": [
+        "Cardio",
+        "High Rep Counts",
+        "Full-Body Exercises",
+        "Buckets crammed with Sweat"
+      ],
+      "expectations_f": [
+        "Cardio",
+        "High Rep Counts",
+        "Full-Body Exercises",
+        "Buckets crammed with Sweat"
+      ],
+      "results_m": [
+        "Achieve a lean physique",
+        "Maximize patience and stamina",
+        "Boost metabolism and make stronger coronary health"
+      ],
+      "results_f": [
+        "Achieve a lean physique",
+        "Maximize patience and stamina",
+        "Boost metabolism and make stronger coronary health"
+      ],
+      "workout_types": [
+        "STRENGTH_CARDIO",
+        "HIIT",
+        "TABATA",
+        "PLYOMETRICS",
+        "INTERVAL_TRAINING",
+        "STRENGTH_CARDIO",
+        "ROUNDS",
+        "HIIT",
+        "TABATA",
+        "ROUNDS",
+        "HIIT"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 9,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "deload_week",
+          "title": "Deload Weeks",
+          "description": "Prepare the physique for the doubled demand in the following week",
+          "weeks": 1,
+          "difficulty_coefficient": 0.7
+        },
+        {
+          "code": "hard_week",
+          "title": "Brutal Days",
+          "description": "Reach your complete means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "fit_and_strong",
+      "title_m": "Fit & Strong",
+      "title_f": "Fit & Strong",
+      "image_m": "plan_img_11_m",
+      "image_f": "plan_img_11_f",
+      "gender": "u",
+      "focus_strength": 3,
+      "focus_cardio": 1,
+      "expectations_m": [
+        "Resistance Exercises",
+        "Low Rep Counts",
+        "Strength Building",
+        "Muscle Recovery"
+      ],
+      "expectations_f": [
+        "Resistance Exercises",
+        "Low Rep Counts",
+        "Toning Exercises",
+        "Muscle Recovery"
+      ],
+      "results_m": [
+        "Maintain a robust physique",
+        "Increase your metabolism with resistance training",
+        "Achieve wholesome & totally recovered muscles",
+        "Build discipline, glimpse better, really stronger"
+      ],
+      "results_f": [
+        "Tighten and tone because there is no bulking up",
+        "Increase your metabolism with resistance training",
+        "Achieve wholesome & totally recovered muscles",
+        "Build discipline, glimpse better, really stronger"
+      ],
+      "workout_types": [
+        "STRENGTH_INTERVALS",
+        "ROUNDS",
+        "TABATA",
+        "STRENGTH_CARDIO",
+        "ROUNDS",
+        "HIIT"
+      ],
+      "workout_duration_coefficient": 0.9,
+      "recovery_duration_coefficient": 1.1,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 10,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "hard_week",
+          "title": "Brutal Days",
+          "description": "Reach your complete means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "just_stay_fit",
+      "title_m": "Just keep Fit",
+      "title_f": "Just keep Fit",
+      "image_m": "plan_img_12_m",
+      "image_f": "plan_img_12_f",
+      "gender": "u",
+      "focus_strength": 1,
+      "focus_cardio": 1,
+      "expectations_m": [
+        "Full-Body Exercises",
+        "Lower Intensity",
+        "70 %of Your Potential",
+        "Muscle Recovery"
+      ],
+      "expectations_f": [
+        "Full-Body Exercises",
+        "Lower Intensity",
+        "70 %of Your Potential",
+        "Muscle Recovery"
+      ],
+      "results_m": [
+        "Maintain your health and be wholesome with minimal effort",
+        "More leisure",
+        "Achieve wholesome & totally recovered muscles"
+      ],
+      "results_f": [
+        "Maintain your health and be wholesome with minimal effort",
+        "More leisure",
+        "Achieve wholesome & totally recovered muscles"
+      ],
+      "workout_types": [
+        "INTERVAL_TRAINING",
+        "PLYOMETRICS",
+        "STRENGTH_INTERVALS",
+        "LIGHT_CARDIO",
+        "HIIT",
+        "TABATA",
+        "ROUNDS"
+      ],
+      "workout_duration_coefficient": 0.6,
+      "recovery_duration_coefficient": 1.4,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 0.7
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 6,
+          "difficulty_coefficient": 0.7
+        }
+      ]
+    },
+    {
+      "code": "muscle_starter",
+      "title_m": "Muscle & Strength Starter",
+      "title_f": "Strength & Resistance Starter",
+      "image_m": "plan_img_14_m",
+      "image_f": "plan_img_14_f",
+      "gender": "u",
+      "focus_strength": 2,
+      "focus_cardio": 1,
+      "expectations_m": [
+        "Full-Body Exercises",
+        "Strength Building",
+        "Increasing Intensity",
+        "Resistance Exercises"
+      ],
+      "expectations_f": [
+        "Full-Body Exercises",
+        "Strength Building",
+        "Increasing Intensity",
+        "Toning Exercises"
+      ],
+      "results_m": [
+        "Master the fundamentals of fitness",
+        "A reduce begin will assemble a constant habit",
+        "Look stronger. Feel stronger."
+      ],
+      "results_f": [
+        "Master the fundamentals of fitness",
+        "A reduce begin will assemble a constant habit",
+        "Look stronger. Feel stronger."
+      ],
+      "workout_types": [
+        "REPS",
+        "STRENGTH_INTERVALS",
+        "REPS",
+        "STRENGTH_INTERVALS",
+        "TABATA"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 3,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "hard_week",
+          "title": "Brutal Days",
+          "description": "Reach your complete means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "full_body_gainer",
+      "title_m": "Weight Reduction Starter5_m",
+      "title_f": "Full Body Toning",
+      "image_m": "plan_img_15_m",
+      "image_f": "plan_img_15_f",
+      "gender": "u",
+      "focus_strength": 3,
+      "focus_cardio": 1,
+      "expectations_m": [
+        "Strength Building",
+        "Full-Body Exercises",
+        "Low Rep Counts",
+        "Resistance Exercises"
+      ],
+      "expectations_f": [
+        "Strength Building",
+        "Full-Body Exercises",
+        "Low Rep Counts",
+        "Resistance Exercises"
+      ],
+      "results_m": [
+        "Build strength effectively",
+        "Build useful strength",
+        "Build discipline, glimpse better, really stronger"
+      ],
+      "results_f": [
+        "Burn fat because there is no thAchieve a robust feminine physique & might tonee yo-yo effect",
+        "Build useful strength",
+        "Look stronger. Feel stronger."
+      ],
+      "workout_types": [
+        "REPS",
+        "STRENGTH_INTERVALS",
+        "REPS",
+        "TABATA"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 9,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "deload_week",
+          "title": "Deload Weeks",
+          "description": "Prepare the physique for the doubled demand in the following week",
+          "weeks": 1,
+          "difficulty_coefficient": 0.7
+        },
+        {
+          "code": "hard_week",
+          "title": "Brutal Days",
+          "description": "Reach your complete means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    },
+    {
+      "code": "explosive_tone_up",
+      "title_m": "Explosive Tone Up",
+      "title_f": "Explosive Tone Up",
+      "image_m": "plan_img_20_m",
+      "image_f": "plan_img_20_f",
+      "gender": "u",
+      "focus_strength": 2,
+      "focus_cardio": 2,
+      "expectations_m": [
+        "Explosive Power",
+        "HIIT Workouts",
+        "Resistance Exercises",
+        "Variable Intensity"
+      ],
+      "expectations_f": [
+        "Explosive Power",
+        "HIIT Workouts",
+        "Toning Exercises",
+        "Variable Intensity"
+      ],
+      "results_m": [
+        "Get an athletic look",
+        "Increase your metabolism with resistance training",
+        "Build might for day after day styles challenges"
+      ],
+      "results_f": [
+        "Tighten and tone because there is no bulking up",
+        "Increase your metabolism with resistance training",
+        "Build might for day after day styles challenges"
+      ],
+      "workout_types": [
+        "PLYOMETRICS",
+        "STRENGTH_INTERVALS",
+        "PLYOMETRICS",
+        "HIIT"
+      ],
+      "workout_duration_coefficient": 1,
+      "recovery_duration_coefficient": 1,
+      "segments": [
+        {
+          "code": "assessment",
+          "title": "Appraisal Week",
+          "description": "The Ustad will take a look at your efficiency to construct an ideal working towards plan",
+          "weeks": 1,
+          "difficulty_coefficient": 1
+        },
+        {
+          "code": "custom_training",
+          "title": "Main Part",
+          "description": "Fully personalized practicing in response to your performance",
+          "weeks": 9,
+          "difficulty_coefficient_min": 1,
+          "difficulty_coefficient_max": 1.2
+        },
+        {
+          "code": "deload_week",
+          "title": "Deload Weeks",
+          "description": "Prepare the physique for the doubled demand in the following week",
+          "weeks": 1,
+          "difficulty_coefficient": 0.7
+        },
+        {
+          "code": "hard_week",
+          "title": "Brutal Days",
+          "description": "Reach your complete means in the ultimate week",
+          "weeks": 1,
+          "difficulty_coefficient": 1.4
+        }
+      ]
+    }
+  ],
+  "goals": {
+    "LOSE_FAT": {
+      "title": "Lose Fat",
+      "description": "These training Workout plans are all about burning fat and calories.",
+      "plans": [
+        "weight_loss_starter",
+        "super_cardio_burner",
+        "balanced_fat_loss",
+        "muscle_shredder",
+        "endurance_builder",
+        "female_body_special",
+        "male_body_special"
+      ]
+    },
+    "GET_FITTER": {
+      "title": "Get Fitter",
+      "description": "Training plans designed to support & care for your bodily condition.",
+      "plans": [
+        "full_stack_fitness",
+        "endurance_builder",
+        "fit_and_strong",
+        "just_stay_fit",
+        "balanced_fat_loss"
+      ]
+    },
+    "GAIN_MUSCLE": {
+      "title": "Gain Muscle",
+      "description": "These plans concentrate on constructing muscles and strength.",
+      "plans": [
+        "muscle_starter",
+        "full_body_gainer",
+        "explosive_tone_up",
+        "muscle_shredder",
+        "fit_and_strong",
+        "female_body_special",
+        "male_body_special"
+      ]
+    }
+  }
+}
